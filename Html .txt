@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web technologies</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  
+  <header>
+    <h1> Introduction</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>Hi, my name is Muhammad Amaan and I'm a student. I just wish this website works.</p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Bootstrap</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Hobbies</h2>
+      <ul>
+        <li>sleeping </li>
+        <li>driving </li>
+        <li>eating</li>
+      </ul>
+    </section>
+  </main>
+
+  <header>
+    <h1>My Favorite Personalities</h1>
+  </header>
+
+  <main>
+
+    <section>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHlsx_E20EBsA-HMl1LvytI2ivWTlV2uPOA&usqp=CAU”.>
+
+     <h2>Babar azam </h2>
+      <p> Babar Azam is a Pakistani cricketer who is widely regarded as one of the best batsmen in the world. He was born on October 15, 1994, in Lahore, Pakistan, and made his debut for the Pakistan cricket team in 2015. Babar is a right-handed batsman who is known for his elegant stroke play and ability to score runs consistently across all formats of the game. He has already amassed several records in his young career, including being the fastest batsman to reach 1,000, 2,000, 3,000, 4,000, and 5,000 runs in One Day Internationals (ODIs).
+</ p>
+    </section>
+
+    <section>
+      <img src= “https://images.app.goo.gl/iG2PgXFSnp6is4DXA”/>
+
+     <h2>Bill Gates</h2>
+      <p>William Henry Gates III (born October 28, 1955) is an American business magnate, philanthropist, and investor. He is best known for co-founding software giant Microsoft, along with his late childhood friend Paul Allen.[2][3] During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO), president and chief software architect, while also being its largest individual shareholder until May 2014.[4] He was a major entrepreneur of the microcomputer revolution of the 1970s and 1980s.</p>
+    </section>
+  </main>
+
+  <header>
+    <h1>My Favorite Cities</h1>
+  </header>
+
+  <main>
+    <section>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg”>
+
+ <h2> Islamabad </h2>
+      <p>Islamabad is the of the greatest city in the Pakistan and is known as the cultural and financial capital of the world. It is home to many iconic landmarks such as the Faisal Mosque and damane khuh .</p>
+    </section>
+
+    <section>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_YAPEh8M95yw0d3eR_0aJLZW6iOQ9ZzC4Q&usqp=CAU”>
+
+    <h2>Istanbul </h2>
+      <p>.Istanbul is a historic city located in Turkey, straddling Europe and Asia across the Bosphorus Strait. It was once the capital of the Byzantine and Ottoman empires, and its rich history can be seen in its architecture, museums, and cultural sites. Some of its most famous landmarks include the Hagia Sophia, Blue Mosque, Topkapi Palace, and Grand Bazaar. Istanbul is also known for its delicious food, vibrant nightlife, and bustling markets. With its unique blend of East and West, Istanbul is a truly fascinating destination that attracts millions of visitors every year. </p>
+    </section>
+
+    <section>
+      <img src=".   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1c25g5gXaHPXdMu5uStjYvX1zB7bQ_GNHA&usqp=CAU”>
+   
+   <h2>Abu dabhi  </h2>
+      <p>. Abu Dhabi is the capital city of the United Arab Emirates (UAE), located on the Arabian Gulf. It is the second-most populous city in the UAE after Dubai and is known for its luxury shopping, modern architecture, and cultural attractions. Some of its most famous landmarks include the Sheikh Zayed Grand Mosque, Emirates Palace, Yas Island, and the Abu Dhabi Corniche. Abu Dhabi is also home to several museums, including the Louvre Abu Dhabi and the Qasr Al Hosn. The city is a popular destination for tourists and business travelers alike and is a hub for international events and conferences    .</p>
+    </section>
+    
+    <section>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-IenMBzPq9sADbH-vvkqNxf1_yE5e_LlLCA&usqp=CAU”>
+
+   <h2>Sydney</h2>
+      <p>Sydney is the largest city in Australia and is famous for its stunning harbor, beautiful beaches, and iconic landmarks such as the Sydney Opera House and the Harbour Bridge. It is also known for its vibrant nightlife and world-class restaurants.</p>
+    </section>
+  </main>
+
+  <header>
+		<h1>Favorite Tourist Spots</h1>
+	</header>
+
+	<div class="container">
+		<div class="spot">
+			<img src=“ https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Burj_Khalifa_2021.jpg/1200px-Burj_Khalifa_2021.jpg”>
+
+<h2>Dubai, UAE</h2>
+			<p>The most populous city in the UAE and known for its skyscrapers, luxury shopping, and vibrant nightlife.</p>
+		</div>
+		<div class="spot">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVAIZxUHG-rUXBy0-H8fs3K5HfFYsbL4Nlw&usqp=CAU">
+			<h2>The Overland, Australia</h2>
+			<p>A scenic train journey from Adelaide to Melbourne, passing through the stunning Australian landscape.</p>
+		</div>
+		<div class="spot">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4mVj0YScapvECbMO-X1sCuo6uO5eawOOzA&usqp=CAU”>
+			<h2>Kyoto, Japan</h2>
+			<p>A city in Japan known for its traditional temples, shrines, and beautiful gardens.</p>
+		</div>
+		<div class="spot">
+			<img src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0iPu3RdThvcarizkVEz5JQ0w17UkPU_i1g&usqp=CAU”>
+			<h2>Grand Canyon, USA</h2>
+			<p>A breathtaking natural wonder located in Arizona, known for its vast canyons and stunning views.</p>
+		</div>
+		<div class="spot">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_f6yXuFpQd4AT6g9_NpkMaTDmtRSZi_933g&usqp=CAU" alt="Marrakech">
+			<h2>Marrakech, Morocco</h2>
+			<p>A vibrant city known for its beautiful architecture, bustling markets, and rich cultural heritage.</p>
+		</div>
+		<div class="spot">
+			<img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1dKrt848uaszBVJYYwwlVqze8GLW8xos8Q&usqp=CAU”>
+
+	<h2>Machu Picchu, Peru</h2>
+			<p>An ancient Incan citadel located high in the Andes mountains, known for its stunning ruins and beautiful views.</p>
+		</div>
+	</div>
+
+  <header>
+    <h1>User Information Form</h1>
+  </header>
+  <main>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="contact">Contact Number:</label>
+      <input type="tel" id="contact" name="contact" required>
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message"></textarea>
+
+      <input type="submit" value="Submit">
+    </form>
+  </main>
+
+</body >
+</html>
